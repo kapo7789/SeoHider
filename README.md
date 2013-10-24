@@ -6,7 +6,7 @@ http://www.seowind.ru/vnutrennyaya-optimizaciya/seohide/
 
 Использование виджета:
 
-1) Закинуть папку SeoHider в extensions (например)
+1) Закинуть папку SeoHider в your_yii_project/protected/extensions/ (например)
 
 2) во вью скрывать любой блок так: 
 
