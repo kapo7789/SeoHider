@@ -15,3 +15,6 @@ http://www.seowind.ru/vnutrennyaya-optimizaciya/seohide/
      [YOUR CONTENT BLOCK]
      
 <?php $this->endWidget(); ?>
+
+
+PS: requires jQuery
